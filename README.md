@@ -7,3 +7,4 @@ The project demonstrates:
 - Using GitHub UI to manage files
 - Creating licenses and documentation
 - Using Git CLI for branching, merging, and pull requests
+Minor typo fix
