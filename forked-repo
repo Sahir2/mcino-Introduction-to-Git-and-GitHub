@@ -1,0 +1,15 @@
+curl -H "Accept: application/vnd.github+json" \
+     -H "Authorization: Bearer YOUR_GITHUB_TOKEN" \
+     https://api.github.com/repos/Sahir2/mcino-Introduction-to-Git-and-GitHub
+
+{
+  "id": ...,
+  "name": "mcino-Introduction-to-Git-and-GitHub",
+  "full_name": "Sahir2/mcino-Introduction-to-Git-and-GitHub",
+  "fork": true,
+  "parent": {
+    "full_name": "ibm-developer-skills-network/mcino-Introduction-to-Git-and-GitHub"
+  }
+}
+
+
