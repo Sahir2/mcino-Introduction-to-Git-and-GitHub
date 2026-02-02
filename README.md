@@ -8,3 +8,4 @@ The project demonstrates:
 - Creating licenses and documentation
 - Using Git CLI for branching, merging, and pull requests
 Minor typo fix
+PR verification change
