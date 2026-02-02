@@ -1,5 +1,5 @@
 curl -H "Accept: application/vnd.github+json" \
-     -H "Authorization: Bearer YOUR_GITHUB_TOKEN" \
+     -H "Authorization: Bearer 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" \
      https://api.github.com/repos/Sahir2/mcino-Introduction-to-Git-and-GitHub
 
 {
